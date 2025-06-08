@@ -49,13 +49,7 @@ rentmate/
 │
 └── rentmate.db                # SQLite database file (auto-generated)
 How to Run Locally
-Clone the repo:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/rentmate.git
-cd rentmate
 Install dependencies:
 
 bash
@@ -121,9 +115,9 @@ Cloud database integration for multi-user access.
 Contact
 For questions or contributions, please reach out:
 
-Author: Your Name
+Author: Aditya Pratap Singh
 
-Email: your.email@example.com
+Email: adityapratapapss.com
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Adityaapss
 
